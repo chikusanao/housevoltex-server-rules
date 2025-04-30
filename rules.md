@@ -1,12 +1,11 @@
-Ver JP
-
+# おうちボルテ大会サーバー
 
 おうちボルテ大会サーバーは、国内外問わず音ゲーマーの交流を中心としたコミュニティです。
 SOUND VOLTEX EXCEED GEAR(コナステ版)を用いたリアルタイム対戦や、アーケード版を交えたスコアアタック・交流戦等も行っていますので、是非ご参加ください！
 
 当コミュニティを快適にしていただけるよう、以下のルールをお守りください。
 
-すべてのルールは、千種ナオが音信不通とならない限り、このgithubにて更新し、差分を示します。これをdiscordに転記するものとします。
+すべてのルールは、千種ナオが音信不通とならない限り、[このgithub](https://github.com/chikusanao/housevoltex-server-rules/blob/main/rules.md)にて更新し、差分を示します。これをdiscordに転記するものとします。
 
 ## サーバールール
 1. 尊敬の念を持ち、礼儀正しくあること。
@@ -30,15 +29,13 @@ SOUND VOLTEX EXCEED GEAR(コナステ版)を用いたリアルタイム対戦や
 上記ルールを守れていないと判断した場合は、予告なしに追放またはBANを行うことがあります。
 守れていないと思われるユーザを確認した場合は、#inquiry チャンネルにてご連絡ください。
 
-Ver EN
-
 # House Voltex Tournament Server
 
 The House Voltex Tournament Server is a community centered around interaction among rhythm game players both domestically and internationally. We hold real-time matches using SOUND VOLTEX EXCEED GEAR (KONASTYLE version), as well as score attacks and interaction matches involving the arcade version, so please feel free to join us!
 
 Please observe the following rules to ensure a comfortable experience for everyone in our community.
 
-All rules will be updated and the differences will be shown on this github, as long as Chigusa Nao remains in contact. These will be transcribed to Discord.
+All rules will be updated and the differences will be shown on [this github](https://github.com/chikusanao/housevoltex-server-rules/blob/main/rules.md), as long as Chigusa Nao remains in contact. These will be transcribed to Discord.
 
 ## Server Rules
 1. Be respectful and courteous.
