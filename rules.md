@@ -6,6 +6,8 @@ SOUND VOLTEX EXCEED GEAR(コナステ版)を用いたリアルタイム対戦や
 
 当コミュニティを快適にしていただけるよう、以下のルールをお守りください。
 
+すべてのルールは、千種ナオが音信不通とならない限り、このgithubにて更新し、差分を示します。これをdiscordに転記するものとします。
+
 ## サーバールール
 1. 尊敬の念を持ち、礼儀正しくあること。
 2. なりすましをしないこと。
@@ -26,7 +28,7 @@ SOUND VOLTEX EXCEED GEAR(コナステ版)を用いたリアルタイム対戦や
 14. コントローラー等機材の売買については個人間で行ってください。当サーバーの運営は一切のトラブルに関与しませんし、できません。あくまでも個人間であり、サーバー内で行わないでください。
 
 上記ルールを守れていないと判断した場合は、予告なしに追放またはBANを行うことがあります。
-守れていないと思われるユーザを確認した場合は、運営まで#inquiry チャンネルにてご連絡ください。
+守れていないと思われるユーザを確認した場合は、#inquiry チャンネルにてご連絡ください。
 
 Ver EN
 
@@ -35,6 +37,8 @@ Ver EN
 The House Voltex Tournament Server is a community centered around interaction among rhythm game players both domestically and internationally. We hold real-time matches using SOUND VOLTEX EXCEED GEAR (KONASTYLE version), as well as score attacks and interaction matches involving the arcade version, so please feel free to join us!
 
 Please observe the following rules to ensure a comfortable experience for everyone in our community.
+
+All rules will be updated and the differences will be shown on this github, as long as Chigusa Nao remains in contact. These will be transcribed to Discord.
 
 ## Server Rules
 1. Be respectful and courteous.
@@ -53,4 +57,4 @@ Please observe the following rules to ensure a comfortable experience for everyo
     *This is not to say we will be holding events. This is an important clarification to avoid misunderstanding.
 14. Trading or selling controllers and other equipment should be done privately between individuals. The server administration will not be involved in any related issues and cannot offer assistance. Please conduct these transactions privately and not within the server.
 
-Failure to comply with the above rules may result in expulsion or a ban without prior notice. If you see a user who you believe is not following the rules, please contact the administration.
+Failure to comply with the above rules may result in expulsion or a ban without prior notice. If you see a user who you believe is not following the rules, please contact us via the #inquiry channel.
