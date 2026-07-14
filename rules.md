@@ -23,7 +23,7 @@ SOUND VOLTEX EXCEED GEAR(コナステ版)を用いたリアルタイム対戦や
 12. 本サーバーにおける規約外の問題行為については、日本法に準拠し、同法を基本として処理いたします。
     なお、サーバー外での問題行為が当サーバー、及びコミュニティ内に及ぶと考えられる場合は、サーバー内でも処分を適用すること、または即時の参加不可とすることがあります。
 13. オフ会等については、募集チャンネルを設けています。ただ、あくまで運営の関わった何かではないので、オフ会等の当日に何か（無いことを願っていますが）金銭等諸々のトラブルが起きても運営チームは関与しません（厳密にはできません）ので何卒ご理解ください。
-    ※イベントをやるという意味ではありません。そこは間違われると困るので付け足しておきます。
+    ※イベントをやってはいけないという意味ではありません。そこは間違われると困るので付け足しておきます。
 14. コントローラー等機材の売買については個人間で行ってください。当サーバーの運営は一切のトラブルに関与しませんし、できません。あくまでも個人間であり、サーバー内で行わないでください。
 
 上記ルールを守れていないと判断した場合は、予告なしに追放またはBANを行うことがあります。
@@ -51,7 +51,7 @@ All rules will be updated and the differences will be shown on [this github](htt
 11. If you notice any rule violations, have concerns, or are unsure about certain actions or statements, please create a ticket in the #⁠inquiry channel to contact us.
 12. For any problematic behavior outside of these rules within this server, we will adhere to and primarily process it based on Japanese law. Furthermore, if off-server problematic behavior is deemed to affect this server and its community, we may apply sanctions within the server or immediately revoke access.
 13. We have channels for organizing offline meetups. However, please understand that these are not official events organized by the administration, and the administrative team will not be involved (and strictly cannot be involved) in any issues, such as financial troubles, that may arise during these meetups.
-    *This is not to say we will be holding events. This is an important clarification to avoid misunderstanding.
+    *This does not mean that members are prohibited from organizing events. This clarification has been added to avoid any misunderstanding.
 14. Trading or selling controllers and other equipment should be done privately between individuals. The server administration will not be involved in any related issues and cannot offer assistance. Please conduct these transactions privately and not within the server.
 
 Failure to comply with the above rules may result in expulsion or a ban without prior notice. If you see a user who you believe is not following the rules, please contact us via the #inquiry channel.
